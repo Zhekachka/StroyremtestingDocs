@@ -59,4 +59,5 @@ pass: 123123
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-08-02 | 10:39 |Chrome 115.0.5790.102 (64-бит) Firefox 115.0.2 (64-бит) |PASS  | Safari  |PASS | 16.06.23 | Мария |
 | 2023-08-29 | 14:40 |Chrome 116.0.5845.111 (64-bit) Firefox 116.0.3 (64-bit)  |PASS  | Chrome 116.0.5845.92 Android 10 | PASS | 27.08.23 | Татьяна |
+| 2023-09-03 | 21:20 | Chrome 116.0.5845.141 Yandex 23.7.3.824 | SKIP https://trello.com/c/GjYkGMSC/466 |Samsung Galaxy A50/Chrome 116.0.5845.163  | SKIP https://trello.com/c/GjYkGMSC/466 | 03.09.23 | Наталья К. | 
 |  |  |  |  |  |  |  |  |
