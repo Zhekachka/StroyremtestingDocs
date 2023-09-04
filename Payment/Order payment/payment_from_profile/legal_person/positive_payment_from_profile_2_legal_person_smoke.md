@@ -53,13 +53,13 @@ pass: 123123
 Тестовый сервер
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
-| --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | | | |  |  | | |  | 
 
 Продовый сервер
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023-07-28 | 10:39  | Chrome 115.0.5790.102 Firefox 115.0.2 | PASS  |Safari  | PASS | 16.06.23 | Мария | 
+| 2023-08-02 | 10:39  | Chrome 115.0.5790.102 Firefox 115.0.2 | FAIL https://trello.com/c/BDUwJZEy/178  |Safari  | FAIL https://trello.com/c/BDUwJZEy/178 | 16.06.23 | Мария | 
 |2023-09-01  |16:20  |Chrome 116.0.5845.111 (64-bit) Firefox 116.0.3 (64-bit)  |FAIL https://trello.com/c/BDUwJZEy/178  |Chrome 116.0.5845.92, Android 10  |FAIL https://trello.com/c/BDUwJZEy/178  |27.08.23  |Татьяна  |
 | 2023-09-03 | 21:30 | Chrome 116.0.5845.141 Yandex 23.7.3.824 | SKIP https://trello.com/c/GjYkGMSC/466 |Samsung Galaxy A50/Chrome 116.0.5845.163  | SKIP https://trello.com/c/GjYkGMSC/466| 03.09.23 | Наталья К. | 
