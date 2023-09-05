@@ -97,3 +97,4 @@ pass: 123123:
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
 |  |  |  |  |  |  |  |  |
 | 28.08.23 | 21:00 | Chrome версия 116.0.5845.111 Firefox версия 116.0.3  | FAIL https://trello.com/c/BDUwJZEy/178 | Chrome версия 116.0.5845.93 MIUI 12.5.13 | FAIL https://trello.com/c/BDUwJZEy/178 | 27.08.23 | Надежда |
+| 2023-09-05 | 10:00 | Chrome 116.0.5845.141 Yandex 23.7.4.971 | FAIL https://trello.com/c/BDUwJZEy/178  |Samsung Galaxy A50/Chrome 116.0.5845.163  | FAIL https://trello.com/c/BDUwJZEy/178  | 03.09.23 | Наталья К. |
