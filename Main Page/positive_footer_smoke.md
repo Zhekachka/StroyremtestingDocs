@@ -14,9 +14,7 @@
   
 * Шаги:
 
-  1. Прокрутить главную страницу до футера
-  
-  2. Сравнить с макетом
+  1. Сравнить футер с макетом
 
 * Ожидаемый результат:
 
@@ -37,3 +35,4 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |2023-07-19 | 08:05 |Chrome 114.0.5735.199 Yandex 23.7.0.2526 |FAIL https://trello.com/c/DqO5lmwW |MIUI 12.5.2  |FAIL https://trello.com/c/DqO5lmwW  | 16.06.23 | Сабина |
 |2023-08-14 | 13:41 | Chrome 115.0.5790.171 Firefox 115.0.3 | FAIL https://trello.com/c/DqO5lmwW  | Chrome 115.0.5790.166, Android 10 | FAIL https://trello.com/c/DqO5lmwW  |13.08.23 | Татьяна|
+|28.08.23|18-00|Chrome 115.0.5790.171|FAILED https://trello.com/c/DqO5lmwW|Chrome 115.0.5790.166, Android 13|FAILED https://trello.com/c/DqO5lmwW|28.08.23|Валерий|
