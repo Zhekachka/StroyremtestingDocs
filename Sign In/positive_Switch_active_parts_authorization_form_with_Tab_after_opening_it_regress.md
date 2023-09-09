@@ -22,14 +22,16 @@
 
 * Тестовый сервер 
 
-Тест выполнен
-| Дата | Время | Результат | Имя | Баг № Trello |
-| --- | --- | --- | --- | --- |
-| 2023-07-16 | 22:10 | FAIL | Александр Воронин |https://trello.com/c/ZdgIjVAg https://trello.com/c/YIXc4MGH  | 
+	
+|  №  | Дата       | Время |           Версия браузера/Десктоп          |        Результат/Баг в Трелло Десктоп    |             Версия браузера и ОС Тач      |           Результат/Баг в Трелло Тач          |  Дата Релиза  |  Имя   |
+| --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
+| 1   | 2023-07-16 | 22:10 |Chrome 116.0.5845.97 Mazila 116.0.2  | FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH | Chrome 116.0.5845.97               | FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH | 04.07 | Александр Воронин  |
+| 2   | 2023-08-13 | 22:34 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH | Chrome 116.0.5845.97               | FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH  | 13.08 | Сабина  |
 
 * Продовый сервер
 
-Тест выполнен
-| Дата | Время | Результат | Имя | Баг № Trello |
-| --- | --- | --- | --- | --- |
-| 2023-07-16 | 22:15 | FAIL | Александр Воронин |https://trello.com/c/ZdgIjVAg https://trello.com/c/YIXc4MGH  | 
+
+|  №  | Дата       | Время |           Версия браузера/Десктоп          |        Результат/Баг в Трелло Десктоп    |             Версия браузера и ОС Тач      |           Результат/Баг в Трелло Тач          |  Дата Релиза  |  Имя   |
+| --- | ---------- | ----- |-------------------------------------| ---------------------------------- | ---------------------------------- | ---------------------------------- | ------| ------  |
+| 1   | 2023-07-16 | 22:15 |Chrome 116.0.5845.97 Mazila 116.0.2  | FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH  | Chrome 116.0.5845.97               | FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH  | 04.07 | Александр Воронин  |
+| 2   | 2023-08-13 | 22:35 |Chrome 116.0.5845.97 Yandex 23.7.2.765| FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH | Chrome 116.0.5845.97               | FAIL https://trello.com/c/ZdgIjVAg / https://trello.com/c/YIXc4MGH  | 13.08 | Сабина  |
